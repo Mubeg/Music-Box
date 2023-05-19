@@ -24,7 +24,7 @@ image::Royal'.jpg[]
 image::box_open.jpg[]
 
 ifdef::env-github[]
-image:box_top.jpg[link=https://youtu.be/F3KdXyVSGKw]
+image:box_top.jpg[link=https://drive.google.com/file/d/1n5D_cN3c6tPaNEnOuHL-QV4auUE0L1Qb/view?usp=sharing]
 endif::[]
 
 ifndef::env-github[]
