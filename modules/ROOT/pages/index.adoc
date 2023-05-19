@@ -1,0 +1,24 @@
+ifdef::env-github[]
+:imagesdir: ../images/
+endif::[]
+ifdef::env-vscode[]
+:imagesdir: ../images/
+endif::[]
+== Музыкальная шкатулка
+
+image::box_front.jpg[]
+
+Задачей проекта было создать удобную и красивую музыкальную шкатулку для личного пользования. С посталенной задачей изделие успешно справляется.
+
+.Пройденные этапы:
+. xref:natural_modeling.adoc[Натуральное моделирование]
+. xref:shema.adoc[Разработка схемы]
+. xref:plata_teor.adoc[Разработка печатной платы]
+. xref:plata_phys.adoc[Производство печатной платы]
+. xref:corpus_teor.adoc[Разработка корпуса]
+. xref:corpus_phys.adoc[Производство корпуса]
+. xref:corpus_build.adoc[Сборка копуса]
+. xref:plana_build.adoc[Пайка платы]
+. xref:complete.adoc[Сборка изделия]
+
+== xref:result.adoc[Результат]
