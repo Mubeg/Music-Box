@@ -130,7 +130,7 @@ void loop()
     #ifdef DEBUG3
     Serial.printf("valpot = %d\ntemp = %d\n------\n", valpot, int(round(temp)));
     #endif
-    myDFPlayer.volume(round(temp));
+    myDFPlayer.volume(30 - round(temp));
     
     oled_update();
   }
