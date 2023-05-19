@@ -23,6 +23,8 @@ image::Royal'.jpg[]
 
 image::box_open.jpg[]
 
+image::box_top.jpg[]
+
 ifdef::env-github[]
 image:https://img.youtube.com/vi/F3KdXyVSGKw/maxresdefault.jpg[link=https://youtu.be/F3KdXyVSGKw]
 endif::[]
