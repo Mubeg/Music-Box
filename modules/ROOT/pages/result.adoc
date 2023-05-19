@@ -25,4 +25,15 @@ image::box_open.jpg[]
 
 video::example.mp4[width=1280,start=0]
 
+
+video::F3KdXyVSGKw[youtube]
+
+ifdef::env-github[]
+image:https://img.youtube.com/vi/F3KdXyVSGKw/maxresdefault.jpg[link=https://youtu.be/F3KdXyVSGKw]
+endif::[]
+
+ifndef::env-github[]
+video::F3KdXyVSGKw[youtube]
+endif::[]
+
 Перейти в xref:index.adoc[начало].
