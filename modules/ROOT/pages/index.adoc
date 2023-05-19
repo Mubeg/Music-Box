@@ -17,7 +17,7 @@ image::box_front.jpg[]
 . xref:plata_phys.adoc[Производство печатной платы]
 . xref:corpus_teor.adoc[Разработка корпуса]
 . xref:corpus_phys.adoc[Производство корпуса]
-. xref:corpus_build.adoc[Сборка копуса]
+. xref:corpus_build.adoc[Сборка корпуса]
 . xref:plana_build.adoc[Пайка платы]
 . xref:complete.adoc[Сборка изделия]
 
