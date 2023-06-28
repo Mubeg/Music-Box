@@ -13,8 +13,6 @@
 
 #include "Arduino.h"
 
-//some testing
-
 #ifndef DFRobotDFPlayerMini_cpp
     #define DFRobotDFPlayerMini_cpp
 
